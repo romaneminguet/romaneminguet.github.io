@@ -1,0 +1,22 @@
+h1{
+	color:white;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:5;
+}
+#tab{
+	text-indent:700px;
+	width: 100%;
+  	padding: 0px;
+ 	background:rgb(230, 0, 0);
+}
+button {
+padding: 15px 20px;
+color:white;
+text-indent:10px;
+font-size:18px;
+background:rgb(230, 0, 0);
+border:0px;
+}
+.banner{
+	background-image:url(https://www.aaci.fr/wp-content/uploads/2019/01/aaci-expertise-comptable-bandeau-2.jpg);
+}
